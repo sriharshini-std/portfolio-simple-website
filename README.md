@@ -14,6 +14,6 @@ This is a simple personal portfolio website with a homepage and a contact page. 
 This project was created to practice frontend web development and design a basic personal portfolio website.
 
 ## How To View
-You can access my portfolio website by visiting the [Link:]. Feel free to explore the content and get in touch.
+You can access my portfolio website by visiting the [Link:https://sriharshini-std.github.io/portfolio-simple-website/]. Feel free to explore the content and get in touch.
 
 Thank You for visiting my protfolio website. 
